@@ -10,4 +10,6 @@ sites/prototype
 sites/all/themes/sbsd_th/.sass-cache
 sites/all/drush
 apc.php
+/cgi-bin
+p.php
 
